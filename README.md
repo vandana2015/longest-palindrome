@@ -1,2 +1,2 @@
 # longest-palindrome
-Prints the longest palindrome in a string
+C# console app containing program to print the longest palindrome in a string.
