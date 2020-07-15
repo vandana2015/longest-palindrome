@@ -1,0 +1,12 @@
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\bin\Debug\netcoreapp3.1\longest-palindrome.exe
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\bin\Debug\netcoreapp3.1\longest-palindrome.deps.json
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\bin\Debug\netcoreapp3.1\longest-palindrome.runtimeconfig.json
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\bin\Debug\netcoreapp3.1\longest-palindrome.runtimeconfig.dev.json
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\bin\Debug\netcoreapp3.1\longest-palindrome.dll
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\bin\Debug\netcoreapp3.1\longest-palindrome.pdb
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\obj\Debug\netcoreapp3.1\longest-palindrome.AssemblyInfoInputs.cache
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\obj\Debug\netcoreapp3.1\longest-palindrome.AssemblyInfo.cs
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\obj\Debug\netcoreapp3.1\longest-palindrome.csproj.CoreCompileInputs.cache
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\obj\Debug\netcoreapp3.1\longest-palindrome.dll
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\obj\Debug\netcoreapp3.1\longest-palindrome.pdb
+E:\GitHub\longest-palindrome\longest-palindrome\longest-palindrome\obj\Debug\netcoreapp3.1\longest-palindrome.genruntimeconfig.cache
